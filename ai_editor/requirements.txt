@@ -1,3 +1,4 @@
 streamlit
-moviepy
+decorators==4.4.2
+moviepy==1.0.3
 edge-tts
